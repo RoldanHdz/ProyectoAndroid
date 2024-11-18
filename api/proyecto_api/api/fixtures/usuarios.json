@@ -1,0 +1,27 @@
+[
+    {
+      "model": "api.usuario",
+      "pk": 1,
+      "fields": {
+        "nombre": "Juan",
+        "email": "juan@example.com",
+        "contraseña": "secreto",
+        "foto_perfil": "path/to/image.jpg",
+        "identificacion": "123456789",
+        "fecha_registro": "2024-01-01T12:00:00Z"
+      }
+    },
+    {
+      "model": "api.usuario",
+      "pk": 2,
+      "fields": {
+        "nombre": "Ana",
+        "email": "ana@example.com",
+        "contraseña": "secreto",
+        "foto_perfil": "path/to/image2.jpg",
+        "identificacion": "987654321",
+        "fecha_registro": "2024-01-01T12:00:00Z"
+      }
+    }
+  ]
+  
